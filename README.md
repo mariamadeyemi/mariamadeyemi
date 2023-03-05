@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building a full-stack website<br>👯 I’m looking to collaborate on JavaScript and node.js projects<br>🌱 I’m always learning<br>💬 Ask me about web development<br>⚡ Fun fact: I love cats! 
+🔭 I’m currently building great projects<br>👯 I’m looking to collaborate on JavaScript and node.js projects<br>🌱 I’m always learning<br>💬 Ask me about web development 
 
 
 ## 🌐 Socials:
